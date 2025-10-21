@@ -4,6 +4,9 @@ Venture into the mystical world of **Lessaria** with full control at your finger
 
 Streamlined, stable, and highly customizable — this Mod Menu lets you shape the world of Lessaria to match your style of adventure.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://lessaria-mod-menu.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
